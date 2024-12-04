@@ -7,7 +7,7 @@
 
 Сервер будет доступен по адресу [http://localhost:8080](http://localhost:8080).
 
-[Пример](example.png)
+[Пример](https://github.com/DRAK0NN/Auth-in-Go/blob/main/example.png)
 
 ## Ограничения
 
