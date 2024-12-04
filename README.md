@@ -7,7 +7,7 @@
 
 Сервер будет доступен по адресу [http://localhost:8080](http://localhost:8080).
 
-[](example.png)
+[Пример](example.png)
 
 ## Ограничения
 
